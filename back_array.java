@@ -1,4 +1,4 @@
-public class BackArray {
+public class back_array {
     public static void Rev(int[] arr, int i) {
         if (i >= arr.length) return; // base case
         arr[i] = arr[i] - 2;
